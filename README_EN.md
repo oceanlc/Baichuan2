@@ -32,6 +32,10 @@
 - [👥 Community and Ecosystem](#Community-and-Ecosystem)
 - [📜 Disclaimer, License and Citation](#Disclaimer-License-and-Citation)
 
+# Update
+[2023.12.29] 🎉🎉🎉 We have released **[Baichuan2-13B-Chat v2](https://huggingface.co/baichuan-inc/Baichuan2-13B-Chat/tree/v2.0)** version. In this version:
+- Significantly improved the model's overall capabilities, especially in mathematics and logical reasoning, and complex instruction following.
+
 # Models Introduction
 
 - Baichuan 2 is the new generation of open-source large language models launched by Baichuan Intelligent Technology. It was trained on a high-quality corpus with **2.6 trillion** tokens.
