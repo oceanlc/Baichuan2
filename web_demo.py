@@ -8,20 +8,21 @@ from transformers.generation.utils import GenerationConfig
 st.set_page_config(page_title="Baichuan 2")
 st.title("Baichuan 2")
 
+MODEL_PATH = '/home/lc/projects/pretrained_models/Baichuan2-13B-Chat'
 
 @st.cache_resource
 def init_model():
     model = AutoModelForCausalLM.from_pretrained(
-        "baichuan-inc/Baichuan2-13B-Chat",
+        MODEL_PATH,
         torch_dtype=torch.float16,
         device_map="auto",
         trust_remote_code=True
     )
     model.generation_config = GenerationConfig.from_pretrained(
-        "baichuan-inc/Baichuan2-13B-Chat"
+        MODEL_PATH
     )
     tokenizer = AutoTokenizer.from_pretrained(
-        "baichuan-inc/Baichuan2-13B-Chat",
+        MODEL_PATH,
         use_fast=False,
         trust_remote_code=True
     )

@@ -1,0 +1,17 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://115.25.41.248:8503
+  External URL: http://115.25.41.248:8503
+
+You are using an old version of the checkpointing format that is deprecated (We will also silently ignore `gradient_checkpointing_kwargs` in case you passed it).Please update to the new format on your modeling file. To use the new format, you need to completely remove the definition of the method `_set_gradient_checkpointing` in your model.
+Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:  17%|█▋        | 1/6 [00:02<00:12,  2.45s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:04<00:09,  2.47s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:07<00:07,  2.57s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:10<00:05,  2.53s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [00:12<00:02,  2.51s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:14<00:00,  2.19s/it]Loading checkpoint shards: 100%|██████████| 6/6 [00:14<00:00,  2.36s/it]
+[user] 你好
+[{"role": "user", "content": "你好"}, {"role": "assistant", "content": "你好！有什么我可以帮助你的吗？"}]
+[user] 如何看待中国股市
+[{"role": "user", "content": "你好"}, {"role": "assistant", "content": "你好！有什么我可以帮助你的吗？"}, {"role": "user", "content": "如何看待中国股市"}, {"role": "assistant", "content": "中国股市是中国的资本市场，它反映了中国的经济状况和经济发展趋势。中国股市的发展经历了许多阶段，包括起步、发展、改革和开放等。\n\n首先，中国股市的成立和发展，为中国的经济发展提供了重要的资金支持。通过股票发行和交易，企业可以筹集到资金用于生产和经营，同时投资者也可以通过购买股票获得收益。\n\n其次，中国股市的改革和开放，为中国的经济发展注入了新的活力。通过引入外资、完善法律法规、加强监管等措施，中国股市逐渐走向成熟，为中国的经济发展提供了更多的机会。\n\n然而，中国股市也存在一些问题，如市场波动性大、信息披露不透明、投资者保护不足等。这些问题需要政府、企业和投资者共同努力解决。\n\n总的来说，中国股市是中国经济发展的重要组成部分，它的健康发展对于中国的经济发展具有重要的意义。"}]
+[user] 央行降准对股市有什么影响
+[{"role": "user", "content": "你好"}, {"role": "assistant", "content": "你好！有什么我可以帮助你的吗？"}, {"role": "user", "content": "如何看待中国股市"}, {"role": "assistant", "content": "中国股市是中国的资本市场，它反映了中国的经济状况和经济发展趋势。中国股市的发展经历了许多阶段，包括起步、发展、改革和开放等。\n\n首先，中国股市的成立和发展，为中国的经济发展提供了重要的资金支持。通过股票发行和交易，企业可以筹集到资金用于生产和经营，同时投资者也可以通过购买股票获得收益。\n\n其次，中国股市的改革和开放，为中国的经济发展注入了新的活力。通过引入外资、完善法律法规、加强监管等措施，中国股市逐渐走向成熟，为中国的经济发展提供了更多的机会。\n\n然而，中国股市也存在一些问题，如市场波动性大、信息披露不透明、投资者保护不足等。这些问题需要政府、企业和投资者共同努力解决。\n\n总的来说，中国股市是中国经济发展的重要组成部分，它的健康发展对于中国的经济发展具有重要的意义。"}, {"role": "user", "content": "央行降准对股市有什么影响"}, {"role": "assistant", "content": "央行降准，即降低存款准备金率，是中央银行调节货币供应的一种手段。当央行降准时，市场上的流动性会增加，这可能会对股市产生以下影响：\n\n1. 刺激股市上涨：降准会增加市场上的流动性，降低企业的融资成本，从而刺激经济增长。股市是经济的晴雨表，经济增长预期改善通常会导致股市上涨。\n\n2. 增加投资需求：流动性增加会刺激投资者的投资需求，他们可能会将更多的资金投入到股市中，从而推高股价。\n\n3. 增加市场波动性：虽然降准可能会短期刺激股市上涨，但长期来看，如果经济基本面没有明显改善，股市可能会面临调整压力。此外，降准可能会引发市场的过度投机行为，增加市场的波动性。\n\n4. 影响投资者情绪：降准会对投资者的情绪产生影响，尤其是那些依赖流动性的投资者。他们可能会因为流动性增加而更加乐观，从而推动股市上涨。\n\n总的来说，央行降准对股市的影响是复杂的，既有可能带来短期利好，也可能带来长期挑战。投资者在投资股市时，应关注经济基本面和市场情绪的变化，理性投资。"}]
